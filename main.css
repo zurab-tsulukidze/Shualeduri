@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    width: 100vw;
+    height: 88px;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    position:fixed;
+    overflow-y: scroll;
+
+
+}
+body{
+    width: 100vw;
+    height: 100svh;
+    background: #F1F1F1;
+
+
+}
+
+
+
+
+
+.book{
+    width: 97.19px;
+    height: 32.15px;
+    padding: 40px;
+    display: flex;
+    align-items:center;
+    color: #191919;
+}
+
+.content{
+    width: 476.95px;
+    height: 40px;
+    gap: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.maincontainer{
+    background-color: #F1F1F1;
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.firstphoto{
+    width: 322px;
+    height: 187px;
+    
+    
+    
+    
+
+}
+
+.first{
+    width: 322px;
+    height: 463px;
+    margin-left: 40px;
+    background-color: white;
+    
+
+
+
+
+    .title{
+        width: 290px;
+        height: 72px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+        padding: 16px;
+
+    }
+
+    p{
+        width: 290px;
+        height: 108px;
+        font-size: 16px;
+        font-weight: 400;   
+        line-height: 27px;
+        text-align: left;
+        padding: 16px;
+
+
+    }
+
+}
+
+.firstavatar{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+
+}
+
+.firstname{
+    text-wrap: wrap;
+    width: 72px;
+    height: 40px;
+    opacity: 0.5px;
+    color: #292929;
+    
+    
+
+}
+
+.secondphoto{
+    width: 322px;
+    height: 187px;
+    
+      
+
+}
+
+.second{
+    width: 322px;
+    height:  463px;
+    padding: 16px;
+    background-color: white;
+    
+    
+   
+
+
+    .title2{
+        width: 290px;
+        height: 72px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+
+    }
+
+    .secondcontent{
+        width: 290px;
+        height: 108px;
+        font-size: 16px;
+        font-weight: 400;   
+        line-height: 27px;
+        text-align: left;
+    }
+
+}
+
+.secondavatar{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    margin-top: 15px;
+
+}
+
+.secondname{
+    text-wrap: wrap;
+    width: 72px;
+    height: 40px;
+    opacity: 0.5px;
+    color: #292929;
+    
+}
+
+.thirdphoto{
+    width: 322px;
+    height: 187px;
+}
+
+.third{ width: 322px;
+    height:  463px;
+    padding: 16px;
+    gap: 8px;
+    background-color: white;
+    
+   
+
+
+    .title3{
+        width: 290px;
+        height: 72px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+
+    }
+
+    .thirdcontent{
+        width: 290px;
+        height: 108px;
+        font-size: 16px;
+        font-weight: 400;   
+        line-height: 27px;
+        text-align: left;
+    }
+
+}
+
+.thirdavatar{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    margin-top: 15px;
+
+}
+
+.thirdname{
+    text-wrap: wrap;
+    width: 72px;
+    height: 40px;
+    opacity: 0.5px;
+    color: #292929;
+    
+}
+
+
+.fourthphoto{
+    width: 322px;
+    height: 187px;
+}
+
+.fourth{ width: 322px;
+    height:  463px;
+    padding: 16px;
+    gap: 8px;
+    background-color: white;
+    
+   
+
+
+    .title4{
+        width: 290px;
+        height: 72px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+
+    }
+
+    .fourthcontent{
+        width: 290px;
+        height: 108px;
+        font-size: 16px;
+        font-weight: 400;   
+        line-height: 27px;
+        text-align: left;
+    }
+
+}
+
+.fourthavatar{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    margin-top: 15px;
+
+}
+
+.fourthname{
+    text-wrap: wrap;
+    width: 72px;
+    height: 40px;
+    opacity: 0.5px;
+    color: #292929;
+    
+}
+
+button{
+    width: 155px;
+    height: 40px;
+    padding: 8px, 16px, 8px, 16px;
+    border-radius: 21.99px;
+    gap: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    background-color: #3F5F53;
+    color: white;
+    
+
+}
+    
+
